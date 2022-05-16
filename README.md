@@ -1,7 +1,8 @@
 # Getting Started
 
 ### Reference Documentation
-//TODO: need to add openapi documentation 
+http://localhost:8080/documentation.html
+//TODO: openapi documentation need to be finished with all endpoints 
 
 
 ### Guides

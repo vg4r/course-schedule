@@ -1,0 +1,41 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "description": "This is an api for course schedules",
+    "version": "1.0.0",
+    "title": "Course Schedule api"
+  },
+  "tags": [
+    {
+      "name": "/courses",
+      "description": "Read and create Courses"
+    },
+    {
+      "name": "/departments",
+      "description": "Read and create Departments"
+    },
+    {
+      "name": "/professors",
+      "description": "Read and create Professors"
+    },
+    {
+      "name": "/schedules",
+      "description": "Read and create Schedules"
+    }
+  ],
+  "paths": {
+
+  },
+  "externalDocs": {
+    "description": "Find out more about Swagger",
+    "url": "http://swagger.io"
+  },
+  "components": {
+    "schemas": {
+
+    },
+    "requestBodies": {
+
+    }
+  }
+}
